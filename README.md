@@ -1,6 +1,5 @@
-# Voting system on Blockchain Ethereum
-
-Ethereum blockchain smart contract to organize voting system where you can vote for a candidate.  
+# Metacoin - An Ethereum based token
+Ethereum blockchain smart contract for Metacoin - An Ethereum based token.  
 
 ## Build and Run
 
